@@ -1,0 +1,10 @@
+.project
+.cache
+.classpath
+.ensime
+.ensime_lucene/
+.idea/
+.project/
+.settings/
+target/
+*.iml
